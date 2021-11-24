@@ -4,6 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.1 Hello, World/1.1 Hello, World.iml" filepath="$PROJECT_DIR$/1.1 Hello, World/1.1 Hello, World.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.2 Temperatur/1.2 Temperatur.iml" filepath="$PROJECT_DIR$/1.2 Temperatur/1.2 Temperatur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.3 Måned/1.3 Måned.iml" filepath="$PROJECT_DIR$/1.3 Måned/1.3 Måned.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.4 Heltallige Grænser/1.4 Heltallige Grænser.iml" filepath="$PROJECT_DIR$/1.4 Heltallige Grænser/1.4 Heltallige Grænser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.5 Casting/1.5 Casting.iml" filepath="$PROJECT_DIR$/1.5 Casting/1.5 Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.1 Expressions/2.1 Expressions.iml" filepath="$PROJECT_DIR$/2.1 Expressions/2.1 Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2 Tildeling/2.2 Tildeling.iml" filepath="$PROJECT_DIR$/2.2 Tildeling/2.2 Tildeling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.3 Expression vs Statement/2.3 Expression vs Statement.iml" filepath="$PROJECT_DIR$/2.3 Expression vs Statement/2.3 Expression vs Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.1 Areal af Cirkler/3.1 Areal af Cirkler.iml" filepath="$PROJECT_DIR$/3.1 Areal af Cirkler/3.1 Areal af Cirkler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.2 Sum af Areal af Cirkler/3.2 Sum af Areal af Cirkler.iml" filepath="$PROJECT_DIR$/3.2 Sum af Areal af Cirkler/3.2 Sum af Areal af Cirkler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Opgaver.iml" filepath="$PROJECT_DIR$/Opgaver.iml" />
     </modules>
   </component>
