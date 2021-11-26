@@ -7,12 +7,15 @@ Skriv et program, hvori
  */
 public class Main {
     public static void main(String[] args) {
-        int C = -5;
+        double C = -5;
         double F;
 
-        for (int i = 0; i<40; i++){
-            System.out.println(C++ + " ");
-            System.out.println(32 + (9/5)*C);
+        for (int i = 0; C<45.5; i++){
+            System.out.print(C + " Degrees Celcius converts to ");
+            F = 32 + (9/5)*C;
+            C = C+0.5;
+            System.out.print(F + " Fahrenheit");
+            System.out.println("");
         }
     }
 }
